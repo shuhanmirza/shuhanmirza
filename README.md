@@ -55,8 +55,10 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
 
+<!-- 
 ### wakatime stats
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=shuhanmirza&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
+-->
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
