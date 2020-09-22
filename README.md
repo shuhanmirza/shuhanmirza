@@ -15,7 +15,7 @@
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Shuhan Mirza and I'm a software engineer. I am a true fan of **Blockchain**! Love to automate everything! I'm from Bangladesh, living in Dhaka and currently working at Progoti Systems Limited.
+My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Blockchain**! Love to **automate** everything! I'm from Bangladesh, living in Dhaka and currently working at Progoti Systems Limited.
 
 ![Profile views](https://gpvc.arturio.dev/shuhan)
 
@@ -44,6 +44,7 @@ My name is Shuhan Mirza and I'm a software engineer. I am a true fan of **Blockc
 ![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-avr](https://img.shields.io/badge/embedded_system-atmel_avr-f6c819?style=for-the-badge&logo=atmel-studio&logoColor=white&labelColor=21223e)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -54,30 +55,48 @@ My name is Shuhan Mirza and I'm a software engineer. I am a true fan of **Blockc
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
 
+### wakatime stats
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=shuhanmirza&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
+
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
-## Stacks
+## Projects
+### SUSTcast [Online Radio Station]  
 
-## OpenSource
-
-## Android
-
-## BlockChain
-
-## Robotics
-
-<a href="https://github.com/shuhanmirza/shuhanmirza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=shuhanmirza" />
+<a align="center" href="https://github.com/sustcast/sustcast-core-v0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=f6c819&text_color=fff" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=shuhanmirza" />
+<a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=f6c819&text_color=fff" />
+</a>  
+
+### Pet Projects
+<a align="center" href="https://github.com/shuhanmirza/facebook_comment_automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=facebook_comment_automation&bg_color=21223e&title_color=f6c819&text_color=fff" />
 </a>
+
+### Robotics Contests  
+<a align="center" href="https://github.com/MeowLaboratories/sumo-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=sumo-bot&bg_color=21223e&title_color=f6c819&text_color=fff" />
+</a>
+
+<a align="center" href="https://github.com/MeowLaboratories/maze-solver-robot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=maze-solver-robot&bg_color=21223e&title_color=f6c819&text_color=fff" />
+</a>
+
+### Hardware Projects
+
+<a align="center" href="https://github.com/MeowLaboratories/snake-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=snake-game&bg_color=21223e&title_color=f6c819&text_color=fff" />
+</a>
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
+<!-- Trophies: https://github.com/ryo-ma/github-profile-trophy -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 <!--
