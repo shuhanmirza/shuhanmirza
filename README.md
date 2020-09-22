@@ -1,22 +1,5 @@
 # Hi there 👋 It's under construction
 
-<style>
-.col-container {
-  display: table;
-  width: 100%;
-}
-.col {
-  display: table-cell;
-  padding: 16px;
-  height: 220px;
-}
-
-.col img {
-   height: 100%;
-   width: 100%;
-}
-</style>
-
 ![Header](https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/header.gif)
 
 <p align='center'>
@@ -31,21 +14,16 @@
 ## Github Stats
 
 <p align="center">
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+
+  <img  height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&column=3&margin-w=5&margin-h=5&count_private=true"/>
+
 </p>
 
-<div class="col-container">
-  <div class="col">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
-  </div>
 
-  <div class="col">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-  </div>
-
-  <div class="col">
-  <img src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&column=3&margin-w=5&margin-h=5&count_private=true"/>
-  </div>
-</div>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&theme=dark&count_private=true&langs_count=5)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&count_private=true)
