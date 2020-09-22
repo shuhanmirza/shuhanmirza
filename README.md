@@ -15,7 +15,7 @@
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-My name is Shuhan Mirza and I'm a software engineer and a true fan of **Blockchain**! I'm from Bangladesh, living in Dhaka and currently working at Progoti Systems Limited.
+My name is Shuhan Mirza and I'm a software engineer. I am a true fan of **Blockchain**! Love to automate everything! I'm from Bangladesh, living in Dhaka and currently working at Progoti Systems Limited.
 
 ![Profile views](https://gpvc.arturio.dev/shuhan)
 
