@@ -17,7 +17,7 @@
 
 My name is Shuhan Mirza and I'm a software engineer and a true fan of **Blockchain**! I'm from Bangladesh, living in Dhaka and currently working at Progoti Systems Limited.
 
-![Profile views](https://gpvc.arturio.dev/shuhan)  
+![Profile views](https://gpvc.arturio.dev/shuhan)
 
 ## 🔧 Technologies & Tools
 
@@ -37,11 +37,13 @@ My name is Shuhan Mirza and I'm a software engineer and a true fan of **Blockcha
 
 ## &#x1f4c8; GitHub Stats
 
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+<p align="center" >
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
 
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+</p>
 
-  <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 ## Stacks
 
