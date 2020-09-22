@@ -42,7 +42,8 @@ My name is Shuhan Mirza and I'm a software engineer and a true fan of **Blockcha
 
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
 ![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
-![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=aws&logoColor=white&labelColor=21223e)
+![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
 
 ## &#x1f4c8; GitHub Stats
