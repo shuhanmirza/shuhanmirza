@@ -15,7 +15,7 @@
 
 <p align="center">
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+  <img height="200" width="120%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 
