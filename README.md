@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://raw.githubusercontent.com/shuhanmirza/<OWNER>/<OWNER>assets/header.gif)
+![Header](https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/header.gif)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&theme=dark&count_private=true&langs_count=5)  
 
