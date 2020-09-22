@@ -4,17 +4,13 @@
 
 <p align='center'>
 <!--<a href="https://dev.to/shuhanmirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/dev.png"></a>-->
+<a href="https://www.fb.com/shuhan.mirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/facebook.png"></a>
 <a href="https://instagram.com/shuhan.mirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/ig.png"></a>
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.buymeacoffee.com/shuhanmirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/coffee.png"></a>
+<a href="https://www.linkedin.com/in/shuhan-mirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/linkedin.png"></a>
+<a href="mailto:shuhan.mirza@gmail.com"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/gmail.png"></a>
+
 </p>
-
-> <p >
->  <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-> </p>
-
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&theme=dark&count_private=true&langs_count=5)  
 
