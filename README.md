@@ -54,16 +54,16 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 ### SUSTcast [Online Radio Station] 📻
 
 <a align="center" href="https://github.com/sustcast/sustcast-core-v0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 <a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>  
 
 ### Blockchain 🌐
 
 <a align="center" href="https://github.com/fantastic007/vote.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fantastic007&repo=vote.io&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fantastic007&repo=vote.io&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <!-- probaho -->
@@ -71,40 +71,40 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 ### Pet Projects 🐾
 
 <a align="center" href="https://github.com/shuhanmirza/sobjanta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=sobjanta&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=sobjanta&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/shuhanmirza/High-Way-Driver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=High-Way-Driver&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=High-Way-Driver&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/darkhorse-lab/CryptoCurrency-Details-live-webapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkhorse-lab&repo=CryptoCurrency-Details-live-webapp&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkhorse-lab&repo=CryptoCurrency-Details-live-webapp&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/shuhanmirza/facebook_comment_automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=facebook_comment_automation&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=facebook_comment_automation&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <!-- subsel.org -->
 
 ### Robotics Contests 🤖
 <a align="center" href="https://github.com/MeowLaboratories/sumo-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=sumo-bot&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=sumo-bot&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/MeowLaboratories/maze-solver-robot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=maze-solver-robot&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=maze-solver-robot&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 ### Hardware Projects 🕹
 
 <a align="center" href="https://github.com/MeowLaboratories/snake-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=snake-game&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=snake-game&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/shuhanmirzaavr-mcu-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=avr-mcu-projects&bg_color=21223e&title_color=f6c819&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=avr-mcu-projects&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>  
 
 ## &#x1f4c8; GitHub Stats
