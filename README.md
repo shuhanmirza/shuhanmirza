@@ -24,31 +24,42 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 ## ⚙️ Technologies & Tools
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
 
-<!-- couchdb, django ,flask-->
+<!-- couchdb, django ,flask // freq use -> old use-->
+### Frequent 🔥
 ![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
 ![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
 ![badge-golang](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
-![badge-arduino](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
-<!-- 
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
--->
+
 ![badge-hlf][hyperledger-fabric-badge]
 ![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
-![badge-couchdb][couchdb-badge]
-<!--![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)-->
-  
 
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
 ![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
 ![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+
+
+### Seldom 💤
+
+![badge-arduino](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
+
+
+![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
+![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
+
+
+![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-couchdb][couchdb-badge]
+![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
+  
+
 ![badge-avr][atmel-studio-badge]
 ![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 
