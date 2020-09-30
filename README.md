@@ -137,6 +137,11 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
+<p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
