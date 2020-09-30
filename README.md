@@ -139,6 +139,13 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <p align="center">
 <!--START_SECTION:waka-->
+```text
+Markdown     2 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.46 % 
+XML          1 hr 45 mins    ███████▓░░░░░░░░░░░░░░░░░   31.19 % 
+Java         1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+C            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+```
 <!--END_SECTION:waka-->
 </p>
 
