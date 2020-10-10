@@ -140,7 +140,7 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
 Java       5 hrs 49 mins   ██████████████░░░░░░░░░░░   56.51 % 
 XML        3 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 % 
