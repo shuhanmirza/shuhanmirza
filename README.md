@@ -34,6 +34,7 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 ![badge-hlf][hyperledger-fabric-badge]
 ![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
+![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
 ![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
 
 ![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
@@ -53,7 +54,6 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 
 ![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
-![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
 
 
 ![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
