@@ -140,12 +140,12 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 November, 2020 - 26 November, 2020
+Week: 20 November, 2020 - 27 November, 2020
 
-Python   5 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.65 % 
-Java     3 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.18 % 
-XML      51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python   5 hrs 30 mins   ██████████████░░░░░░░░░░░   55.67 % 
+Java     3 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.36 % 
+XML      51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
