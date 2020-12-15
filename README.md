@@ -140,7 +140,9 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 December, 2020 - 14 December, 2020
+
+
 ```
 <!--END_SECTION:waka-->
 
