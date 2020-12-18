@@ -140,9 +140,9 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2020 - 16 December, 2020
+Week: 10 December, 2020 - 17 December, 2020
 
-Python   4 mins          ████████████████████▒░░░░   80.90 % 
+Python     25 mins         ███████████████████████░░   92.63 % 
 ```
 <!--END_SECTION:waka-->
 
