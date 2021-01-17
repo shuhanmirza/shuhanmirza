@@ -140,7 +140,7 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
 Java         3 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   45.38 % 
 XML          2 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   31.00 % 
