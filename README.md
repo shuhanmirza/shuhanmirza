@@ -140,13 +140,13 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
-Java            2 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 % 
-XML             2 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.69 % 
-YAML            1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.46 % 
-Apache Config   43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Docker          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Java            2 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   39.74 % 
+XML             1 hr 40 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.77 % 
+YAML            1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Apache Config   43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Docker          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 <!--END_SECTION:waka-->
 
