@@ -13,6 +13,7 @@ detailed link is below
   <a href="https://www.buymeacoffee.com/shuhanmirza"><img height="30" src="https://i.imgur.com/xfv1dZ5.png"></a>
   <a href="https://www.fb.com/shuhan.mirza"><img height="30" src="https://i.imgur.com/xZy8vkQ.png"></a>
   <a href="https://instagram.com/shuhan.mirza"><img height="30" src="https://i.imgur.com/DWeN4dR.png"></a>
+   <a href="https://shuhanmirza.com"><img height="30" src="https://i.imgur.com/uLMH0ni.png"></a>
 </p>
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
