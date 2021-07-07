@@ -141,13 +141,13 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
-Python     15 hrs 6 mins   █████████████████████░░░░   83.94 % 
-YAML       1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-PHP        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Markdown   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Text       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python     17 hrs 5 mins   █████████████████████▓░░░   86.66 % 
+PHP        43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Markdown   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+YAML       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Docker     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
 
