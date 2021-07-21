@@ -141,9 +141,9 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
-Python   49 mins         ████████████████████████▓   99.06 % 
+Python   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
