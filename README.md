@@ -8,12 +8,11 @@ detailed link is below
 
 <p align="center">
   <!--<a href="https://dev.to/shuhanmirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/dev.png"></a>-->
-  <a href="https://www.linkedin.com/in/shuhan-mirza"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
-  <a href="mailto:shuhan.mirza@gmail.com"><img height="30" src="https://i.imgur.com/78azQZd.png"></a>
-  <a href="https://www.buymeacoffee.com/shuhanmirza"><img height="30" src="https://i.imgur.com/xfv1dZ5.png"></a>
-  <a href="https://www.fb.com/shuhan.mirza"><img height="30" src="https://i.imgur.com/xZy8vkQ.png"></a>
-  <a href="https://instagram.com/shuhan.mirza"><img height="30" src="https://i.imgur.com/DWeN4dR.png"></a>
-   <a href="https://shuhanmirza.com"><img height="30" src="https://i.imgur.com/uLMH0ni.png"></a>
+  <a href="https://www.linkedin.com/in/shuhan-mirza">LinkedIn</a> |
+  <a href="mailto:shuhan.mirza@gmail.com">Gmail</a> |
+  <a href="https://www.fb.com/shuhan.mirza">Facebook</a> |
+  <a href="https://instagram.com/shuhan.mirza">Instagram</a> |
+   <a href="https://shuhanmirza.com">My Website</a>
 </p>
 
 # Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
