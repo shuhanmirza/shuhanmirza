@@ -140,13 +140,13 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
-Java         6 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.59 % 
-Properties   2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Python       1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-XML          1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Bash         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Java         5 hrs 55 mins   █████████████░░░░░░░░░░░░   51.96 % 
+Properties   1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Python       1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+XML          1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+YAML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
 
