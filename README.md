@@ -90,8 +90,8 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=sobjanta&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<a align="center" href="https://github.com/shuhanmirza/High-Way-Driver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=High-Way-Driver&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+<a align="center" href="https://github.com/shuhanmirza/Hot-Pursuit-Lite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=Hot-Pursuit-Lite&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/darkhorse-lab/CryptoCurrency-Details-live-webapp">
