@@ -67,7 +67,7 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 
 ## 👨‍💻 Projects
-### SUSTcast [Online Radio Station] 📻
+###  FOSS 💡
 
 <a align="center" href="https://github.com/sustcast/sustcast-core-v0">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
@@ -86,9 +86,11 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 ### Pet Projects 🐾
 
+<!--
 <a align="center" href="https://github.com/shuhanmirza/sobjanta">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=sobjanta&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
+-->
 
 <a align="center" href="https://github.com/shuhanmirza/Hot-Pursuit-Lite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=Hot-Pursuit-Lite&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
@@ -100,6 +102,10 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <a align="center" href="https://github.com/shuhanmirza/facebook_comment_automation">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=facebook_comment_automation&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+
+<a align="center" href="https://github.com/shuhanmirza/odoo_auto_attendance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=odoo_auto_attendance&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <!-- subsel.org -->
