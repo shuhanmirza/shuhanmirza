@@ -147,13 +147,12 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
-Java         2 hrs 47 mins   ███████████████████▒░░░░░   77.93 % 
-HTML         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-CSV/TSV      19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Java      26 mins         █████████░░░░░░░░░░░░░░░░   36.63 % 
+HTML      24 mins         ████████▒░░░░░░░░░░░░░░░░   33.82 % 
+CSV/TSV   19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 % 
+Bash      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 <!--END_SECTION:waka-->
 
