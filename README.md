@@ -29,31 +29,32 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 ![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
-![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
-![badge-golang](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
 
-![badge-hlf][hyperledger-fabric-badge]
 ![badge-spring](https://img.shields.io/badge/framework-spring-f6c819?style=for-the-badge&logo=spring&logoColor=white&labelColor=21223e)
+![badge-hlf][hyperledger-fabric-badge]
 ![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
-![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
-![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
 
+![badge-dynamodb](https://img.shields.io/badge/database-aws_dynamodb-f6c819?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white&labelColor=21223e)
 ![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
 ![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
 
+![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
 ![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
 ![badge-hlf-explorer][hlf-explorer-badge]
 ![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
-![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
-![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-jetbrains](https://img.shields.io/badge/editor-jetbrains-f6c819?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=21223e)
 
 
 ### Seldom 💤
 
 ![badge-arduino](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
 ![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
+![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-golang](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
 
 
+![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
+![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
 ![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
 
 
@@ -64,6 +65,7 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 ![badge-avr][atmel-studio-badge]
 ![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
 
 ## 👨‍💻 Projects
@@ -78,11 +80,14 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 ### Blockchain 🌐
 
-<a align="center" href="https://github.com/fantastic007/vote.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fantastic007&repo=vote.io&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+<a align="center" href="https://github.com/shuhanmirza/vote.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=vote.io&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<!-- probaho -->
+<a align="center" href="https://github.com/shuhanmirza/quarks-network">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=quarks-network&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+
 
 ### Pet Projects 🐾
 
@@ -106,6 +111,10 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <a align="center" href="https://github.com/shuhanmirza/odoo_auto_attendance">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=odoo_auto_attendance&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+
+<a align="center" href="https://github.com/shuhanmirza/mp3-from-youtube-playlist">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=mp3-from-youtube-playlist&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <!-- subsel.org -->
