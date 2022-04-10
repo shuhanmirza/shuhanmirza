@@ -157,7 +157,7 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
 Vue.js       45 mins         █████████░░░░░░░░░░░░░░░░   36.12 %
 Java         28 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
