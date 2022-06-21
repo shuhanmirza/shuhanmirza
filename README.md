@@ -157,14 +157,14 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
-Java             4 hrs 11 mins   █████████████████▒░░░░░░░   69.51 %
-Vue.js           1 hr 22 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
-Text             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Properties       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-TypeScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java             7 hrs 5 mins    ███████████████████▓░░░░░   78.53 %
+Vue.js           1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+Text             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Properties       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
