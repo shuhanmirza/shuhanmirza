@@ -4,7 +4,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 detailed link is below
 -->
 
-[![Header](https://i.imgur.com/Q6hni2u.gif)](https://github.com/shuhanmirza)
+[![Header](img/header.gif)](https://github.com/shuhanmirza)
 
 <p align="center">
   <!--<a href="https://dev.to/shuhanmirza"><img height="30" src="https://github.com/shuhanmirza/shuhanmirza/raw/master/assets/dev.png"></a>-->
@@ -12,10 +12,10 @@ detailed link is below
   <a href="mailto:shuhan.mirza@gmail.com">Gmail</a> |
   <a href="https://www.fb.com/shuhan.mirza">Facebook</a> |
   <a href="https://instagram.com/shuhan.mirza">Instagram</a> |
-   <a href="https://shuhanmirza.com">My Website</a>
+  <a href="https://shuhanmirza.com">My Website</a>
 </p>
 
-# Hey! Wassup! কিতা অবস্থা! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+# Hey! Wassup! কিতা অবস্থা! <img src="img/hand_wave.gif" width="30px">
 
 My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Blockchain**! Love to **automate** everything! I'm from Bangladesh, living in Dhaka and currently working for [bKash Limited](https://www.bkash.com/) as a Senior Engineer of Solution Engineering Department.
 
