@@ -15,7 +15,7 @@ detailed link is below
   <a href="https://shuhanmirza.com">My Website</a>
 </p>
 
-# Hey! Wassup! কিতা অবস্থা! <img src="img/hand_wave.gif" width="30px">
+# Hey! Wassup! কিতা অবস্থা!
 
 My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Blockchain**! Love to **automate** everything! I'm from Bangladesh, living in Dhaka and currently working for [bKash Limited](https://www.bkash.com/) as a Senior Engineer of Solution Engineering Department.
 
