@@ -17,56 +17,9 @@ detailed link is below
 
 # Hey! Wassup! কিতা অবস্থা!
 
-My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Blockchain**! Love to **automate** everything! I'm from Bangladesh, living in Dhaka and currently working for [bKash Limited](https://www.bkash.com/) as a Senior Engineer of Solution Engineering Department.
+My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Blockchain**! Love to **automate** everything! I'm from Bangladesh, living in Dhaka and currently working for [bKash Limited](https://www.bkash.com/) as a Senior Engineer of Software Research and Engineering Department.
 
 ![Profile views](https://gpvc.arturio.dev/shuhan)
-
-## ⚙️ Technologies & Tools
-<!-- yellow f6c819 , navy-blue 21223e white fffff -->
-
-<!-- couchdb, django ,flask // freq use -> old use-->
-### Frequent 🔥
-![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
-![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
-![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
-
-![badge-spring](https://img.shields.io/badge/framework-spring-f6c819?style=for-the-badge&logo=spring&logoColor=white&labelColor=21223e)
-![badge-hlf][hyperledger-fabric-badge]
-![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
-
-![badge-dynamodb](https://img.shields.io/badge/database-aws_dynamodb-f6c819?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white&labelColor=21223e)
-![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
-![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
-
-![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
-![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
-![badge-hlf-explorer][hlf-explorer-badge]
-![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
-![badge-jetbrains](https://img.shields.io/badge/editor-jetbrains-f6c819?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=21223e)
-
-
-### Seldom 💤
-
-![badge-arduino](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
-![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
-![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
-![badge-golang](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
-
-
-![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
-![badge-node](https://img.shields.io/badge/framework-node_js-f6c819?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e)
-![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
-
-
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
-![badge-couchdb][couchdb-badge]
-![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
-  
-
-![badge-avr][atmel-studio-badge]
-![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
-![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
-
 
 ## 👨‍💻 Projects
 ###  FOSS 💡
@@ -76,7 +29,11 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 </a>
 <a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>  
+</a> 
+
+<a align="center" href="https://github.com/shuhanmirza/cryptography-online-tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=cryptography-online-tool&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a> 
 
 ### Blockchain 🌐
 
@@ -97,12 +54,14 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 </a>
 -->
 
-<a align="center" href="https://github.com/shuhanmirza/Hot-Pursuit-Lite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=Hot-Pursuit-Lite&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-</a>
-
+<!--
 <a align="center" href="https://github.com/darkhorse-lab/CryptoCurrency-Details-live-webapp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkhorse-lab&repo=CryptoCurrency-Details-live-webapp&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+-->
+
+<a align="center" href="https://github.com/shuhanmirza/Hot-Pursuit-Lite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=Hot-Pursuit-Lite&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <a align="center" href="https://github.com/shuhanmirza/facebook_comment_automation">
@@ -115,6 +74,10 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 
 <a align="center" href="https://github.com/shuhanmirza/mp3-from-youtube-playlist">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=mp3-from-youtube-playlist&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
+</a>
+
+<a align="center" href="https://github.com/shuhanmirza/github-contribution-pixel-art">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=github-contribution-pixel-art&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
 <!-- subsel.org -->
@@ -134,9 +97,56 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=snake-game&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>
 
-<a align="center" href="https://github.com/shuhanmirzaavr-mcu-projects">
+<a align="center" href="https://github.com/shuhanmirza/avr-mcu-projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=avr-mcu-projects&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
 </a>  
+
+## ⚙️ Technologies & Tools
+<!-- yellow f6c819 , navy-blue 21223e white fffff -->
+
+<!-- couchdb, django ,flask // freq use -> old use-->
+### Frequent 🔥
+![badge-java](https://img.shields.io/badge/code-java-f6c819?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
+![badge-python](https://img.shields.io/badge/code-python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
+![badge-javascript](https://img.shields.io/badge/code-javascript-f6c819?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-shell](https://img.shields.io/badge/shell-bash-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
+
+![badge-spring](https://img.shields.io/badge/framework-spring-f6c819?style=for-the-badge&logo=spring&logoColor=white&labelColor=21223e)
+![badge-spring](https://img.shields.io/badge/framework-Vue.js-f6c819?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=21223e)
+![badge-hlf][hyperledger-fabric-badge]
+![badge-android](https://img.shields.io/badge/framework-android-f6c819?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
+
+![badge-dynamodb](https://img.shields.io/badge/database-aws_dynamodb-f6c819?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white&labelColor=21223e)
+![badge-firebase](https://img.shields.io/badge/database-firebase-f6c819?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21223e)
+![badge-sqlite](https://img.shields.io/badge/database-sqlite-f6c819?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
+
+![badge-aws](https://img.shields.io/badge/cloud-aws-f6c819?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e)
+![badge-docker](https://img.shields.io/badge/tools-docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
+![badge-hlf-explorer][hlf-explorer-badge]
+![badge-linux](https://img.shields.io/badge/os-linux-f6c819?style=for-the-badge&logo=linux&logoColor=white&labelColor=21223e)
+![badge-jetbrains](https://img.shields.io/badge/editor-jetbrains-f6c819?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=21223e)
+
+
+### Seldom 💤
+
+![badge-golang](https://img.shields.io/badge/code-go_lang-f6c819?style=for-the-badge&logo=go&logoColor=white&labelColor=21223e)
+![badge-arduino](https://img.shields.io/badge/code-arduino-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
+![badge-cpp](https://img.shields.io/badge/language-c%2B%2B-f6c819?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
+
+
+![badge-django](https://img.shields.io/badge/framework-django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
+![badge-node](https://img.shields.io/badge/framework-Node.js-f6c819?style=for-the-badge&logo=node.js&logoColor=white&labelColor=21223e)
+![badge-flask](https://img.shields.io/badge/framework-flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
+
+
+![badge-postgresql](https://img.shields.io/badge/database-postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-couchdb][couchdb-badge]
+![badge-mysql](https://img.shields.io/badge/database-mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
+
+
+![badge-avr][atmel-studio-badge]
+![badge-nodemcu](https://img.shields.io/badge/IOT-node_mcu-f6c819?style=for-the-badge&logo=arduino&logoColor=white&labelColor=21223e)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -146,10 +156,6 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
 
-<!-- 
-### wakatime stats
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=shuhanmirza&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
--->
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
