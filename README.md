@@ -163,7 +163,10 @@ My name is Shuhan Mirza and I'm a **software engineer**. I am a true fan of **Bl
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 August 2022 - To: 09 August 2022
+
+Vue.js   43 mins         ████████████████▓░░░░░░░░   67.16 %
+Java     21 mins         ████████▒░░░░░░░░░░░░░░░░   32.84 %
 ```
 
 <!--END_SECTION:waka-->
