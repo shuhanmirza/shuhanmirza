@@ -176,7 +176,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 - [How we scaled our campus online radio application system (SUSTCast)?](https://shuhan-mirza.medium.com/how-have-we-made-our-campus-online-radio-application-system-sustcast-horizontally-scalable-5d236d73cb48)
 
 ## Speaking
-- [RoboSUST Webiner: Blockchain NoobClass ](youtube.com/watch?v=yTam8yX1JiQ)
+- [RoboSUST Webiner: Blockchain NoobClass ](https://youtube.com/watch?v=yTam8yX1JiQ)
 - [Programming Hero Live: Let's learn about Blockchain technology with Shuhan Mirza](https://www.youtube.com/watch?v=GkNIo7wuoyY)
 
 ## Volunteering
