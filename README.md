@@ -1,7 +1,5 @@
 <!-- I followed
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and https://github.com/appledora
-
-detailed link is below
 -->
 
 [![Header](img/header.gif)](https://github.com/shuhanmirza)
@@ -21,7 +19,40 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 - 🌱 I’m currently learning Distributed Systems, Enterprise Blockchain, and System Designing
 - 📫 How to reach me: shuhan dot mirza at gmail dot com
 
-## 👨‍💻 Personal Projects
+
+## Technologies & Tools 
+<!-- yellow f6c819 , navy-blue 21223e white fffff -->
+### Frequent 🔥
+
+<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=gnu-bash"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript">
+
+<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F"><img src="https://img.shields.io/badge/vue_JS-000000?style=for-the-badge&logo=Vue.js&">
+
+<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql"><img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase"><img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite">
+
+<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda"><img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3"><img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2">
+
+### Seldom 💤
+
+<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/go_lang-000000?style=for-the-badge&logo=go"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B">
+
+<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=Android-Studio"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django"><img src="https://img.shields.io/badge/node_js-000000?style=for-the-badge&logo=node.js"><img src="https://img.shields.io/badge/gin_gonic-000000?style=for-the-badge&logo=go">![badge-hlf][hyperledger-fabric-badge]
+
+
+<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql"><img src="https://img.shields.io/badge/Couch DB-000000?style=for-the-badge&logo=Apache CouchDB">
+
+
+<img src="https://img.shields.io/badge/IoT-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=Raspberry Pi"><img src="https://img.shields.io/badge/node_mcu-000000?style=for-the-badge&logo=arduino">![badge-avr][atmel-studio-badge] 
+
+## Professional Projects
+- Middleware and CMS using *Spring Boot* and *Thymeleaf* for [Bkash App](https://www.bkash.com/app/) 
+- Middleware and Frontend using *Spring Boot* and *Vue Js* for [Bkash Business Dashboard](https://www.business.bkash.com) 
+- Automation Software using *Python tKinter* for automating merchant onboarding process for [Bkash Business Dashboard](https://www.business.bkash.com)
+- Mobile Application and Backend using *Android Studio Java* and *Django* for [TallyKhata](https://www.tallykhata.com/)
+- Mobile Application using *Android Studio Java* for [TallyPay](https://tallypay.net/)
+
+
+## Personal Projects
 
 ### Ongoing 🚧
 
@@ -60,8 +91,6 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 </table>
 
 
-
-
 ### Blockchain 🌐
 
 <table>
@@ -73,7 +102,6 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
     </td>
   </tr>
 <table>
-
 
 ### Pet Projects 🐾
 
@@ -106,7 +134,6 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 
 ### Robotics Contests 🤖
 
-
 <table>
   <tr>
     <td>
@@ -122,8 +149,6 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
   </tr>
 </table>
 
-
-
 ### Hardware Projects 🕹
 
 <table>
@@ -135,32 +160,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
     </td>
   </tr>
 <table>
-
-
-## ⚙️ Technologies & Tools 
-<!-- yellow f6c819 , navy-blue 21223e white fffff -->
-
-### Frequent 🔥
-
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=gnu-bash"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript">
-
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F"><img src="https://img.shields.io/badge/vue_JS-000000?style=for-the-badge&logo=Vue.js&">
-
-<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql"><img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase"><img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite">
-
-<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda"><img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3"><img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2">
-
-### Seldom 💤
-
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/go_lang-000000?style=for-the-badge&logo=go"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B">
-
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=Android-Studio"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django"><img src="https://img.shields.io/badge/node_js-000000?style=for-the-badge&logo=node.js"><img src="https://img.shields.io/badge/gin_gonic-000000?style=for-the-badge&logo=go">![badge-hlf][hyperledger-fabric-badge]
-
-
-<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql"><img src="https://img.shields.io/badge/Couch DB-000000?style=for-the-badge&logo=Apache CouchDB">
-
-
-<img src="https://img.shields.io/badge/IoT-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=Raspberry Pi"><img src="https://img.shields.io/badge/node_mcu-000000?style=for-the-badge&logo=arduino">![badge-avr][atmel-studio-badge]  
+ 
 
 <!-- ## &#x1f4c8; GitHub Stats
 
@@ -171,7 +171,17 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 </p>
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/> -->
+## Writing
+- [Why Token-based Pagination Performs Better Than Offset Based?](https://betterprogramming.pub/why-token-based-pagination-performs-better-than-offset-based-465e1139bb33)
+- [How we scaled our campus online radio application system (SUSTCast)?](https://shuhan-mirza.medium.com/how-have-we-made-our-campus-online-radio-application-system-sustcast-horizontally-scalable-5d236d73cb48)
 
+## Speaking
+- [RoboSUST Webiner: Blockchain NoobClass ](youtube.com/watch?v=yTam8yX1JiQ)
+- [Programming Hero Live: Let's learn about Blockchain technology with Shuhan Mirza](https://www.youtube.com/watch?v=GkNIo7wuoyY)
+
+## Volunteering
+- Technical Program Committee Member at 4th International Congress on Blockchain and Applications
+- Judge at Bangladesh Robot Olympiad 2020, 2021, 2022
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
