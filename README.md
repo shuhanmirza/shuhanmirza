@@ -7,7 +7,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 <p align="center">
   <a href="https://www.linkedin.com/in/shuhanmirza">LinkedIn</a> |
   <a href="mailto:shuhan.mirza@gmail.com">Gmail</a> |
-  <a href="https://shuhan-mirza.medium.com/"> Medium Blog </a> |
+  <a href="https://shuhanmirza.medium.com/"> Medium Blog </a> |
   <a href="https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en"> Google Scholar </a> |
   <a href="https://shuhanmirza.com">My Website</a>
 </p>
@@ -173,7 +173,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/> -->
 ## Writing
 - [Why Token-based Pagination Performs Better Than Offset Based?](https://betterprogramming.pub/why-token-based-pagination-performs-better-than-offset-based-465e1139bb33)
-- [How we scaled our campus online radio application system (SUSTCast)?](https://shuhan-mirza.medium.com/how-have-we-made-our-campus-online-radio-application-system-sustcast-horizontally-scalable-5d236d73cb48)
+- [How we scaled our campus online radio application system (SUSTCast)?](https://shuhanmirza.medium.com/how-have-we-made-our-campus-online-radio-application-system-sustcast-horizontally-scalable-5d236d73cb48)
 
 ## Speaking
 - [RoboSUST Webiner: Blockchain NoobClass ](https://youtube.com/watch?v=yTam8yX1JiQ)
