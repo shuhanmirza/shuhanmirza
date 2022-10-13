@@ -5,7 +5,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 [![Header](img/header.gif)](https://github.com/shuhanmirza)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shuhan-mirza">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/shuhanmirza">LinkedIn</a> |
   <a href="mailto:shuhan.mirza@gmail.com">Gmail</a> |
   <a href="https://shuhan-mirza.medium.com/"> Medium Blog </a> |
   <a href="https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en"> Google Scholar </a> |
