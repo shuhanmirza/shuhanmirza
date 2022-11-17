@@ -187,14 +187,14 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 November 2022 - To: 15 November 2022
+From: 09 November 2022 - To: 16 November 2022
 
-Go               1 hr 20 mins    █████████████▓░░░░░░░░░░░   54.37 %
-Vue.js           21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Java             14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-JavaScript       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Git Config       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Python           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Go               1 hr 39 mins    █████████████████░░░░░░░░   68.39 %
+Java             20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Git Config       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Vue.js           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Python           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+TeX              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
