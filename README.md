@@ -187,7 +187,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
 Go                5 hrs 4 mins    ████████████████▒░░░░░░░░   65.86 %
 Java              1 hr 55 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
