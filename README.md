@@ -187,14 +187,14 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 December 2022 - To: 18 December 2022
+From: 12 December 2022 - To: 19 December 2022
 
-Go                3 hrs 44 mins   ████████████████████░░░░░   79.46 %
-Java              49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-protobuf          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go                2 hrs 22 mins   █████████████████████░░░░   83.65 %
+Java              19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+protobuf          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Protocol Buffer   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
