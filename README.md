@@ -187,10 +187,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
-
-Go     1 min           █████████████████████▓░░░   86.52 %
-Java   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
