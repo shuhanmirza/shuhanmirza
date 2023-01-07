@@ -187,7 +187,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
 Python           2 hrs 22 mins   ███████████████░░░░░░░░░░   60.58 %
 HTML             1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
