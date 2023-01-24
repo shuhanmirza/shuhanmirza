@@ -187,14 +187,14 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-Java           4 hrs 6 mins    █████████████████████▒░░░   85.73 %
-JSON           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JavaScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Properties     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-HTML           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java           5 hrs 58 mins   ███████████████████████▒░   93.08 %
+Properties     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+YAML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+yarn.lock      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
