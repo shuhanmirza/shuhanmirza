@@ -187,7 +187,7 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 March 2023 - To: 30 March 2023
+From: 24 March 2023 - To: 31 March 2023
 
 Java             10 hrs 11 mins  ███████████████▒░░░░░░░░░   61.29 %
 HTML             3 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
