@@ -2,28 +2,18 @@
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and https://github.com/appledora
 -->
 
-
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/shuhanmirza">LinkedIn</a> |
-  <a href="mailto:shuhan.mirza@gmail.com">Gmail</a> |
-  <a href="https://shuhanmirza.medium.com/"> Medium Blog </a> |
-  <a href="https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en"> Google Scholar </a> |
-  <a href="https://shuhanmirza.com">My Website</a>
-</p> -->
-
 Hello there! This is Shuhan Mirza! 👋  
 
-I craft scalable, distributed, and enterprise-grade products that solve real-world problems for millions of users. My codes are battle-tested and I can manage cross-functional teams. 
+I craft scalable, distributed, and enterprise-grade products that solve real-world problems for millions of users. My contributions are battle-tested and I can manage cross-functional teams. 
 
 I study, review, and write academic papers for fun. My research interests are Distributed Systems, Enterprise Blockchains, and Cryptography.
 
 📭 Reach Out: shuhan.mirza@gmail.com  
 
  [<img src="https://img.shields.io/badge/shuhanmirza.com-211e1b?style=for-the-badge">](https://shuhanmirza.com) 
- [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=LINKEDIN">](https://www.linkedin.com/in/shuhanmirza) 
- [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=SVG">](https://profile-summary-for-github.com/user/shuhanmirza) [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=medium">](https://shuhanmirza.medium.com/) [<img src="https://img.shields.io/badge/mkb_shuhan-211e1b?style=for-the-badge&logo=google scholar">](https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en) 
+ [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=LINKEDIN">](https://www.linkedin.com/in/shuhanmirza) [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=medium">](https://shuhanmirza.medium.com/) [<img src="https://img.shields.io/badge/mkb_shuhan-211e1b?style=for-the-badge&logo=google scholar">](https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en) [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=SVG">](https://profile-summary-for-github.com/user/shuhanmirza)
  
-
+------
 
 ## Tech Stack
 
@@ -42,7 +32,7 @@ I study, review, and write academic papers for fun. My research interests are Di
 
 <img src="https://img.shields.io/badge/Blockchain-424242?style=for-the-badge&&logoColor=FFFFFF">![badge-hlf][hyperledger-fabric-badge]
 
-
+---
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
