@@ -13,166 +13,34 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 Hello there! This is Shuhan Mirza! 👋  
 
-I craft scalable, distributed, and enterprise-grade products that solve real-world problems for 50+ million users. My codes are battle-tested and I can manage cross-functional teams. 
+I craft scalable, distributed, and enterprise-grade products that solve real-world problems for millions of users. My codes are battle-tested and I can manage cross-functional teams. 
 
-I study, review, and write academic papers for fun. My research interests are Distributed Systems and Enterprise Blockchains.
+I study, review, and write academic papers for fun. My research interests are Distributed Systems, Enterprise Blockchains, and Cryptography.
 
-📭 Reach out shuhan.mirza@gmail.com  
+📭 Reach Out: shuhan.mirza@gmail.com  
 
-
-## Technologies & Tools 
-
-### Frequent 🔥
-
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=gnu-bash"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript">
-
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F"><img src="https://img.shields.io/badge/vue_JS-000000?style=for-the-badge&logo=Vue.js&">
-
-<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql"><img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase"><img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite">
-
-<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda"><img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3"><img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2">
-
-### Seldom 💤
-
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/go_lang-000000?style=for-the-badge&logo=go"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B">
-
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=Android-Studio"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django"><img src="https://img.shields.io/badge/node_js-000000?style=for-the-badge&logo=node.js"><img src="https://img.shields.io/badge/gin_gonic-000000?style=for-the-badge&logo=go">![badge-hlf][hyperledger-fabric-badge]
+ [<img src="https://img.shields.io/badge/shuhanmirza.com-211e1b?style=for-the-badge">](https://shuhanmirza.com) 
+ [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=LINKEDIN">](https://www.linkedin.com/in/shuhanmirza) 
+ [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=SVG">](https://profile-summary-for-github.com/user/shuhanmirza) [<img src="https://img.shields.io/badge/shuhanmirza-211e1b?style=for-the-badge&logo=medium">](https://shuhanmirza.medium.com/) [<img src="https://img.shields.io/badge/mkb_shuhan-211e1b?style=for-the-badge&logo=google scholar">](https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en) 
+ 
 
 
-<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql"><img src="https://img.shields.io/badge/Couch DB-000000?style=for-the-badge&logo=Apache CouchDB">
+## Tech Stack
 
+<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=gnu-bash"><img src="https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino"><img src="https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex">
+
+<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F"><img src="https://img.shields.io/badge/gin_gonic-000000?style=for-the-badge&logo=go"><img src="https://img.shields.io/badge/vue-000000?style=for-the-badge&logo=Vue.js&"><img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=FastAPI"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django"><img src="https://img.shields.io/badge/node_js-000000?style=for-the-badge&logo=node.js"><img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android-Studio">
+
+<img src="https://img.shields.io/badge/Databases-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql"><img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase"><img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql"><img src="https://img.shields.io/badge/Couch DB-000000?style=for-the-badge&logo=Apache CouchDB">
+
+<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda"><img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3"><img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2"><img src="https://img.shields.io/badge/Aws_SQS-000000?style=for-the-badge&logo=Amazon SQS"><img src="https://img.shields.io/badge/Hetzner-000000.svg?style=for-the-badge&logo=Hetzner">
 
 <img src="https://img.shields.io/badge/IoT-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=Raspberry Pi"><img src="https://img.shields.io/badge/node_mcu-000000?style=for-the-badge&logo=arduino">![badge-avr][atmel-studio-badge] 
 
-## Professional Projects
-- Middleware and CMS using *Spring Boot* and *Thymeleaf* for [Bkash App](https://www.bkash.com/app/) 
-- Middleware and Frontend using *Spring Boot* and *Vue Js* for [Bkash Business Dashboard](https://www.business.bkash.com) 
-- Automation Software using *Python tKinter* for automating merchant onboarding process for [Bkash Business Dashboard](https://www.business.bkash.com)
-- Mobile Application and Backend using *Android Studio Java* and *Django* for [TallyKhata](https://www.tallykhata.com/)
-- Mobile Application using *Android Studio Java* for [TallyPay](https://tallypay.net/)
 
+<img src="https://img.shields.io/badge/TOOL-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git"><img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker"><img src="https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=for-the-badge&logo=GitHub-Actions">
 
-## Personal Projects
-
-### Ongoing 🚧
-
-<table>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/shuhanmirza/surelink">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=surelink&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-<table>
-
-### FOSS 💡
-
-<table>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/sustcast/sustcast-core-v0">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-core-v0&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-    </a>
-    </td>
-    <td>
-      <a align="center" href="https://github.com/sustcast/sustcast-android-app-v1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sustcast&repo=sustcast-android-app-v1&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a> 
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/shuhanmirza/cryptography-online-tool">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=cryptography-online-tool&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-### Blockchain 🌐
-
-<table>
-  <tr>
-    <td>
-    <a align="center" href="https://github.com/shuhanmirza/quarks-network">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=quarks-network&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-    </a>
-    </td>
-  </tr>
-<table>
-
-### Pet Projects 🐾
-
-<table>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/shuhanmirza/Hot-Pursuit-Lite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=Hot-Pursuit-Lite&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-    <td>
-      <a align="center" href="https://github.com/shuhanmirza/facebook_comment_automation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=facebook_comment_automation&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/shuhanmirza/mp3-from-youtube-playlist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=mp3-from-youtube-playlist&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-    <td>
-      <a align="center" href="https://github.com/shuhanmirza/github-contribution-pixel-art">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhanmirza&repo=github-contribution-pixel-art&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Robotics Contests 🤖
-
-<table>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/MeowLaboratories/sumo-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=sumo-bot&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-    <td>
-      <a align="center" href="https://github.com/MeowLaboratories/maze-solver-robot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=maze-solver-robot&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Hardware Projects 🕹
-
-<table>
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/MeowLaboratories/snake-game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeowLaboratories&repo=snake-game&bg_color=21223e&title_color=f6c819&text_color=fff&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-<table>
- 
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-</p>
-
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/> -->
-
-
+<img src="https://img.shields.io/badge/Blockchain-424242?style=for-the-badge&&logoColor=FFFFFF">![badge-hlf][hyperledger-fabric-badge]
 
 
 ## Wakatime Stats
@@ -197,9 +65,12 @@ JavaScript       0 secs          ░░░░░░░░░░░░░░░�
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+<!-- Shields: https://shields.io/ 
+https://home.aveek.io/GitHub-Profile-Badges/
+-->
 <!-- Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/
+awesome-github-profile-readme -->
 
 <!--
 **shuhanmirza/shuhanmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
