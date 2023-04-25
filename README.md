@@ -2,26 +2,26 @@
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and https://github.com/appledora
 -->
 
-[![Header](img/header.gif)](https://github.com/shuhanmirza)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/shuhanmirza">LinkedIn</a> |
   <a href="mailto:shuhan.mirza@gmail.com">Gmail</a> |
   <a href="https://shuhanmirza.medium.com/"> Medium Blog </a> |
   <a href="https://scholar.google.com/citations?user=xwSEAPsAAAAJ&hl=en"> Google Scholar </a> |
   <a href="https://shuhanmirza.com">My Website</a>
-</p>
+</p> -->
 
-# Hey! Wassup! কিতা অবস্থা!
+Hello there! This is Shuhan Mirza! 👋  
 
-I'm just another geeky **software engineer**. Worked with Fintech companies in last 3+ years. Currently working for [bKash Limited](https://www.bkash.com/) as a Senior Engineer of Software Research and Engineering Department.
+I craft scalable, distributed, and enterprise-grade products that solve real-world problems for 50+ million users. My codes are battle-tested and I can manage cross-functional teams. 
 
-- 🌱 I’m currently learning Distributed Systems, Enterprise Blockchain, and System Designing
-- 📫 How to reach me: shuhan dot mirza at gmail dot com
+I study, review, and write academic papers for fun. My research interests are Distributed Systems and Enterprise Blockchains.
+
+📭 Reach out shuhan.mirza@gmail.com  
 
 
 ## Technologies & Tools 
-<!-- yellow f6c819 , navy-blue 21223e white fffff -->
+
 ### Frequent 🔥
 
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=gnu-bash"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript">
@@ -171,17 +171,10 @@ I'm just another geeky **software engineer**. Worked with Fintech companies in l
 </p>
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/> -->
-## Writing
-- [Why Token-based Pagination Performs Better Than Offset Based?](https://betterprogramming.pub/why-token-based-pagination-performs-better-than-offset-based-465e1139bb33)
-- [How we scaled our campus online radio application system (SUSTCast)?](https://shuhanmirza.medium.com/how-have-we-made-our-campus-online-radio-application-system-sustcast-horizontally-scalable-5d236d73cb48)
 
-## Speaking
-- [RoboSUST Webiner: Blockchain NoobClass ](https://youtube.com/watch?v=yTam8yX1JiQ)
-- [Programming Hero Live: Let's learn about Blockchain technology with Shuhan Mirza](https://www.youtube.com/watch?v=GkNIo7wuoyY)
 
-## Volunteering
-- Technical Program Committee Member at 4th International Congress on Blockchain and Applications
-- Judge at Bangladesh Robot Olympiad 2020, 2021, 2022
+
+
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
