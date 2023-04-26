@@ -2,7 +2,7 @@
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and https://github.com/appledora
 -->
 
-Hello there! This is Shuhan Mirza! 👋  
+Hello there! This is Shuhan! 👋  
 
 I craft scalable, distributed, and enterprise-grade products that solve real-world problems for millions of users. My contributions are battle-tested and I can manage cross-functional teams. 
 
