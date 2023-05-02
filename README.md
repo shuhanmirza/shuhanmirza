@@ -38,14 +38,14 @@ I study, review, and write academic papers for fun. My research interests are Di
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 24 April 2023 - To: 01 May 2023
 
-Java                       4 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Markdown                   3 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Go                         3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-XML                        1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-YAML                       47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-JSON                       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Java                       4 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+Markdown                   3 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+Go                         2 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+XML                        1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+YAML                       47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+JavaScript                 24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
