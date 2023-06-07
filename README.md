@@ -6,7 +6,7 @@ Hello there! This is Shuhan! 👋
 
 I craft scalable, distributed, and enterprise-grade products that solve real-world problems for millions of users. My contributions are battle-tested and I can manage cross-functional teams. 
 
-I study, review, and write academic papers for fun. My research interests are Distributed Systems, Enterprise Blockchains, and Cryptography.
+I actively contribute to open-source and academia. My research interests are Distributed Systems, Enterprise Blockchains, and Cryptography.
 
 📭 Reach Out: shuhan.mirza@gmail.com  
 
