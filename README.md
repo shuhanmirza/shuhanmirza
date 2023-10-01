@@ -38,7 +38,7 @@ I actively contribute to open-source and academia. My research interests are Dis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
 XML            1 hr 4 mins     ███████████░░░░░░░░░░░░░░   44.06 %
 YAML           20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
