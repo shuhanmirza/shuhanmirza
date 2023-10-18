@@ -38,13 +38,13 @@ I actively contribute to open-source and academia. My research interests are Dis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-Java             6 hrs 51 mins   ████████████████░░░░░░░░░   64.19 %
-HTML             2 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-JSON             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Bash             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-XML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Java           9 hrs 45 mins   ██████████████████░░░░░░░   72.17 %
+HTML           3 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+JSON           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Properties     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
