@@ -38,7 +38,7 @@ I actively contribute to open-source and academia. My research interests are Dis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
 Java              18 hrs 58 mins  ████████████████████▓░░░░   82.50 %
 HTML              2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
