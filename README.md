@@ -38,13 +38,13 @@ I actively contribute to open-source and academia. My research interests are Dis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Java              5 hrs 42 mins   ████████████▓░░░░░░░░░░░░   51.12 %
-Markdown          2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.88 %
-HTML              1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-XML               48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Properties        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Java              7 hrs 15 mins   ████████████▓░░░░░░░░░░░░   50.13 %
+Markdown          2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+HTML              1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+XML               1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+YAML              25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
