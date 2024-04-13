@@ -38,11 +38,12 @@ I actively contribute to open-source and academia. My research interests are Dis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Python     1 min           ██████████████▒░░░░░░░░░░   56.82 %
-JSON       0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-Markdown   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+Markdown   39 mins         ███████████████████████▓░   94.95 %
+Python     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
