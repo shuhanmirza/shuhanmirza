@@ -38,11 +38,9 @@ I actively contribute to open-source and academia. My research interests are Dis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-YAML    2 mins          █████████████████████░░░░   84.66 %
-Other   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-Text    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
