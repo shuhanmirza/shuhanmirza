@@ -4,9 +4,9 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 Hello there! This is Shuhan! 👋  
 
-I craft scalable, distributed, and enterprise-grade products that solve real-world problems for millions of users. My contributions are battle-tested and I can manage cross-functional teams. 
+I am a graduate student at George Mason University's CS department. My research interests include Applied Cryptography, Blockchain, Distributed Systems, and Security and privacy. My primary focus is on strengthening the privacy of instant messaging services.
 
-I actively contribute to open-source and academia. My research interests are Distributed Systems, Enterprise Blockchains, and Cryptography.
+Before joining academia, I used to craft scalable, distributed, and enterprise-grade products that solved real-world problems for millions of users. My contributions are battle-tested and I managed cross-functional teams. I have 5+ years of Software Engineering experience in the FinTech industry.
 
 📭 Reach Out: shuhan.mirza@gmail.com  
 
