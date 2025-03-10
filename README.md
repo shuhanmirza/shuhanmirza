@@ -4,7 +4,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 Hello there! This is Shuhan! 👋  
 
-I am a graduate student at George Mason University's CS department. My research interests include Applied Cryptography, Blockchain, Distributed Systems, and Security & Privacy. My primary focus is on strengthening the privacy of instant messaging services.
+I am a graduate student at George Mason University's CS department. My research interests include Applied Cryptography, Blockchain, Security and Privacy. My primary focus is on strengthening the privacy of instant messaging services.
 
 Before joining academia, I used to craft scalable, distributed, and enterprise-grade products that solved real-world problems for millions of users. My contributions are battle-tested and I managed cross-functional teams. I have 5+ years of Software Engineering experience in the FinTech industry.
 
