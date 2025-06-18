@@ -38,13 +38,9 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Rust             2 hrs 57 mins   ██████████████████████▒░░   88.94 %
-Markdown         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-TOML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Rust   54 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
