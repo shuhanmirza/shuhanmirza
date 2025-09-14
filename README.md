@@ -38,12 +38,12 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Java             3 hrs 47 mins   ████████████████████▒░░░░   81.60 %
-Mermaid          34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Java             3 hrs 47 mins   ████████████████████▒░░░░   81.41 %
+Mermaid          34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+HTML             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-HTML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
