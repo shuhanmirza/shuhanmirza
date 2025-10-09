@@ -38,7 +38,7 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
 Java             3 hrs 7 mins    █████████████████████░░░░   83.72 %
 XML              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
