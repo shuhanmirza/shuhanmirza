@@ -38,13 +38,13 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-C++              2 hrs 1 min     █████████████▒░░░░░░░░░░░   52.76 %
-CMake            1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
-Markdown         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-C                12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+C++              2 hrs 1 min     █████████████░░░░░░░░░░░░   51.74 %
+CMake            1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+Markdown         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+C                12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+YAML             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
