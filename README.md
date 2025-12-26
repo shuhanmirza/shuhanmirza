@@ -38,7 +38,7 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
 C++              3 hrs 9 mins    ████████████░░░░░░░░░░░░░   47.78 %
 Rust             1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
