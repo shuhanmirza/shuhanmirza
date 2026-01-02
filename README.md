@@ -38,10 +38,10 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-Markdown   13 mins         █████████████████████░░░░   83.48 %
-Rust       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Markdown   13 mins         █████████████████████░░░░   83.50 %
+Rust       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
 TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
