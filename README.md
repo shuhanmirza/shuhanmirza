@@ -38,13 +38,13 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Python     27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.26 %
-CSV        21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-Rust       20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
-Markdown   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Text       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Python     56 mins         █████████░░░░░░░░░░░░░░░░   36.10 %
+CSV        46 mins         ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Markdown   25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Rust       20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+TOML       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
