@@ -38,9 +38,12 @@ Before joining academia, I used to craft scalable, distributed, and enterprise-g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-No activity tracked
+TeX          21 mins               ███████████████████████▒░   93.14 %
+Git Config   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+BibTeX       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
