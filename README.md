@@ -2,11 +2,11 @@
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and https://github.com/appledora
 -->
 
-Hello there! This is Shuhan! 👋  
+## Hi, I’m Shuhan 👋
 
-I am a graduate student at George Mason University's CS department. My research interests include Applied Cryptography, Blockchain, Security and Privacy. My primary focus is on strengthening the privacy of instant messaging services.
+I’m a Computer Science PhD student at [George Mason University](https://www.gmu.edu/), where I research applied cryptography and privacy with [Dr. Foteini Baldimtsi](https://www.baldimtsi.com/) and [Dr. Giuseppe Ateniese](https://ateniese.github.io/). My current work focuses on metadata-private communication using fully homomorphic encryption. [Oblivious Signaling](https://www.usenix.org/conference/usenixsecurity26/presentation/shuhan) appears at USENIX Security 2026.
 
-Before joining academia, I used to craft scalable, distributed, and enterprise-grade products that solved real-world problems for millions of users. My contributions are battle-tested and I managed cross-functional teams. I have 5+ years of Software Engineering experience in the FinTech industry.
+I also build systems around digital identity and privacy-enhancing technologies, including recent work at [Cloudflare Research](https://research.cloudflare.com/). Before graduate study, I spent more than five years building, securing, and optimizing large-scale fintech systems. This profile collects my research artifacts, security and privacy tools, and systems projects.
 
 📭 Reach Out: shuhan.mirza@gmail.com  
 
