@@ -38,7 +38,7 @@ I also build systems around digital identity and privacy-enhancing technologies,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
 JSON       15 mins               ████████▒░░░░░░░░░░░░░░░░   32.80 %
 Markdown   12 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
