@@ -38,7 +38,7 @@ I also build systems around digital identity and privacy-enhancing technologies,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2026 - To: 30 September 2026
+From: 24 September 2026 - To: 01 October 2026
 
 Java               29 mins               ██████████░░░░░░░░░░░░░░░   40.35 %
 TeX                26 mins               █████████▒░░░░░░░░░░░░░░░   36.80 %
