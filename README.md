@@ -38,10 +38,9 @@ I also build systems around digital identity and privacy-enhancing technologies,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2026 - To: 09 October 2026
+From: 03 October 2026 - To: 10 October 2026
 
-Markdown   7 mins                ██████████████████▓░░░░░░   74.63 %
-Rust       2 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+Rust   3 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
