@@ -6,7 +6,7 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 I’m a Computer Science PhD student at [George Mason University](https://www.gmu.edu/), where I research applied cryptography and privacy with [Dr. Foteini Baldimtsi](https://www.baldimtsi.com/) and [Dr. Giuseppe Ateniese](https://ateniese.github.io/). My current work focuses on metadata-private communication using fully homomorphic encryption. [Oblivious Signaling](https://www.usenix.org/conference/usenixsecurity26/presentation/shuhan) appears at USENIX Security 2026.
 
-I also build systems around digital identity and privacy-enhancing technologies, including recent work at [Cloudflare Research](https://research.cloudflare.com/). Before graduate study, I spent more than five years building, securing, and optimizing large-scale fintech systems. This profile collects my research artifacts, security and privacy tools, and systems projects.
+I also build systems around digital identity and privacy-enhancing technologies, including recent work at [Cloudflare Research](https://github.com/cloudflareresearch/byoIDP). Before graduate study, I spent more than five years building, securing, and optimizing large-scale fintech systems. This profile collects my research artifacts, security and privacy tools, and systems projects.
 
 📭 Reach Out: shuhan.mirza@gmail.com  
 
