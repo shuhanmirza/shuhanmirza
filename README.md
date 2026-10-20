@@ -38,7 +38,7 @@ I also build systems around digital identity and privacy-enhancing technologies,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
 TeX              19 mins               ████████▒░░░░░░░░░░░░░░░░   33.97 %
 Markdown         8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
