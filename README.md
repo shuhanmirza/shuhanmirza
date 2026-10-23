@@ -38,13 +38,12 @@ I also build systems around digital identity and privacy-enhancing technologies,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2026 - To: 22 October 2026
+From: 16 October 2026 - To: 23 October 2026
 
-TeX          19 mins               █████████░░░░░░░░░░░░░░░░   36.03 %
-Markdown     8 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Java         6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-YAML         5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Python       5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+TeX        14 mins               ███████████▒░░░░░░░░░░░░░   45.64 %
+Markdown   7 mins                ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+YAML       5 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Text       3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
 ```
 
 <!--END_SECTION:waka-->
